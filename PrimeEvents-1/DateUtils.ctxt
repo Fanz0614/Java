@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DateUtils
+comment0.text=\r\n\ This\ class\ provide\ a\ function\ that\ generate\ and\ return\ the\ current\ date\ and\ time\ \r\n\ information\ format\ "yyyy-MM-dd\ HH\:mm\:ss".\r\n\ @author\ (Fan\ Zhang)\ \r\n\ @version\ (2019.10.16)\r\n
+comment1.params=
+comment1.target=DateUtils\ getInstance()
+comment2.params=format
+comment2.target=java.lang.String\ getNowDate(java.lang.String)
+comment2.text=\r\n\ get\ current\ date\ and\ time\r\n\ @param\ format\ "yyyy-MM-dd\ HH\:mm\:ss"\r\n\ @return\ give\ back\ current\ date\ and\ time\r\n
+numComments=3

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=HomeInterface
+comment0.text=\r\n\ HomeInterface\ class\ provide\ the\ main\ interface\ to\ user\ of\ Bookinghall.\r\n\ @author\ (Fan\ Zhang)\ \r\n\ @version\ (2019.10.16)\r\n
+comment1.params=
+comment1.target=HomeInterface()
+comment2.params=
+comment2.target=int\ displayHomePage()
+comment2.text=\r\n\ display\ the\ information\ to\ inspire\ user\ choose\ the\ function\ they\ want\ to\ use.\r\n\ @return\ give\ back\ the\ selection\ of\ user\r\n
+comment3.params=
+comment3.target=int\ displayRegisterPage()
+comment4.params=
+comment4.target=int\ displayHome2()
+comment4.text=\r\n\ display\ the\ information\ to\ inspire\ user\ choose\ the\ function\ they\ want\ to\ use.\r\n\ @return\ give\ back\ the\ selection\ of\ user\r\n
+comment5.params=
+comment5.target=int\ displayLoginPage()
+comment5.text=\r\n\ display\ the\ information\ to\ inspire\ user\ choose\ the\ function\ they\ want\ to\ use.\r\n\ @return\ give\ back\ the\ selection\ of\ user\r\n
+numComments=6

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Administrator
+comment0.text=\r\n\ Administrator\ class\ is\ an\ entity\ class\ as\ well\ as\ the\ sub\ class\ of\ user.\r\n\ @author\ (Fan\ Zhang)\ \r\n\ @version\ (2019.10.16)\r\n
+comment1.params=index\ name\ address\ email\ password\ phoneNumber
+comment1.target=Administrator(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=2
